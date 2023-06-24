@@ -1,7 +1,7 @@
 <?PHP
 	// CONFIGURE YOUR DATABASE SETTINGS HERE...
-	$dbhost = '127.0.0.1';
-	$dbuser = 'root';
-	$dbpass = '';
-	$dbname = 'url_short_db';
+	$dbhost = 'sql12.freemysqlhosting.net';
+	$dbuser = 'sql12628317';
+	$dbpass = 'BbK5RInU1A';
+	$dbname = 'sql12628317';
 ?>
