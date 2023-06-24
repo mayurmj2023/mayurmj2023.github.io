@@ -4,3 +4,4 @@
 	$dbuser = 'root';
 	$dbpass = '';
 	$dbname = 'url_short_db';
+?>
