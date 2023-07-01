@@ -28,8 +28,9 @@
     
 ?>
     <html>
+         <h2>URL Shortener</h2>
         <form action="<?php echo htmlspecialchars('./confirmation.php');?>" method="post">
-        <label for="URL">First name:</label><br>
+        <label for="URL">Long URL:</label><br>
             <input id="URL" name="url_input" type="text" placeholder="Please enter URL here!" required></input>
             <button type="submit" value ="SubmitButton">Save</button>
         </form>
